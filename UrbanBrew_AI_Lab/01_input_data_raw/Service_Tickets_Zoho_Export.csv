@@ -1,0 +1,240 @@
+Ticket_ID,Client_ID,Client_Name,City,Machine_Model,Issue_Description,Logged_At,Resolved_At,Technician,Visits
+TKT-50001,UBC007,Trident Gears,Vadodara,IM-400,Power issue,02-04-2026 11:52,03-04-2026 01:19,Jignesh,1
+TKT-50002,UBC022,Cobalt Fintech,Vadodara,IM-400,Descale,02-04-2026 17:48,03-04-2026 02:34,Ravi Solanki,1
+TKT-50003,UBC027,Narmada Infra,Ahmedabad,BTC-Pro,Grinder Jammed,03-04-2026 15:00,03-04-2026 23:52,JIGNESH PATEL,1
+TKT-50004,UBC004,Sayaji Medicare Hospital,Vadodara,IM-400,not dispensing,04-04-2026 11:34,04-04-2026 20:36,Jignesh,1
+TKT-50005,UBC012,Pinnacle Auto Parts,Vadodara,IM-200,leak from tank,04/04/2026 01:45 PM,04-04-2026 18:28,Imran,2
+TKT-50006,UBC014,Shreeji Packaging,Vadodara,IM-200,descaling due,04/04/2026 05:12 PM,05-04-2026 03:12,Imran,2
+TKT-50007,UBC012,Pinnacle Auto Parts,Vadodara,IM-200,machine not giving tea,05-04-2026 11:50,05-04-2026 19:52,Ravi Solanki,1
+TKT-50008,UBC004,Sayaji Medicare Hospital,Vadodara,IM-400,leakage,05-04-2026 13:23,05-04-2026 19:20,Ravi,1
+TKT-50009,UBC034,Gift Analytics,Ahmedabad,BTC-Pro,Grinder Jammed,08-04-2026 11:34,09-04-2026 09:23,Jignesh,1
+TKT-50010,UBC013,BlueOak Software,Vadodara,BTC-Pro,grinder jam,09-04-2026 15:25,09-04-2026 18:59,Ravi Solanki,1
+TKT-50011,UBC034,Gift Analytics,Ahmedabad,BTC-Pro,scale alert,09/04/2026 04:33 PM,10-04-2026 16:36,Jignesh,1
+TKT-50012,UBC029,SG Highway Tech Hub,Ahmedabad,BTC-Pro,grinder jam,10-04-2026 15:13,11-04-2026 09:59,Jignesh,1
+TKT-50013,UBC035,Sanand Auto Components,Ahmedabad,BTC-Pro,Cleaning req,10/04/2026 05:28 PM,11-04-2026 09:58,Jignesh,1
+TKT-50014,UBC008,Navrachna Design School,Vadodara,IM-400,Cleaning req,11-04-2026 09:51,11-04-2026 15:42,Imran Shaikh,1
+TKT-50015,UBC016,Apex Valves,Vadodara,IM-400,Not switching on,11/04/2026 10:34 AM,11-04-2026 18:20,Imran,2
+TKT-50016,UBC014,Shreeji Packaging,Vadodara,IM-200,scale alert,11-04-2026 15:59,11-04-2026 21:44,Jignesh Patel,2
+TKT-50017,UBC008,Navrachna Design School,Vadodara,IM-400,Cleaning req,12/04/2026 01:39 PM,12-04-2026 17:28,Imran,1
+TKT-50018,UBC033,Vastrapur Studios,Ahmedabad,IM-400,not dispensing,14-04-2026 11:31,15-04-2026 00:43,Jignesh,1
+TKT-50019,UBC014,Shreeji Packaging,Vadodara,IM-200,leak from tank,14/04/2026 05:12 PM,14-04-2026 23:20,Imran Shaikh,1
+TKT-50020,UBC033,Vastrapur Studios,Ahmedabad,IM-400,descaling due,16-04-2026 14:34,17-04-2026 12:36,Jignesh Patel,1
+TKT-50021,UBC010,Mahi Agro Foods,Vadodara,IM-200,water on floor near machine,17/04/2026 10:08 AM,17-04-2026 13:09,Jignesh Patel,1
+TKT-50022,UBC006,Orbit CoWork Alkapuri,Vadodara,BTC-Lite,beans stuck in grinder,18-04-2026 14:15,18-04-2026 17:33,Ravi Solanki,2
+TKT-50023,UBC013,BlueOak Software,Vadodara,BTC-Pro,Grinder Jammed,18-04-2026 15:12,18-04-2026 16:43,RAVI SOLANKI,1
+TKT-50024,UBC004,Sayaji Medicare Hospital,Vadodara,IM-400,leak from tank,19-04-2026 09:47,19-04-2026 15:22,Jignesh,1
+TKT-50025,UBC014,Shreeji Packaging,Vadodara,IM-200,scale alert,19-04-2026 14:55,20-04-2026 03:40,JIGNESH PATEL,2
+TKT-50026,UBC005,Vrundavan Engineering,Vadodara,IM-400,Not switching on,20/04/2026 10:24 AM,21-04-2026 03:04,Ravi,1
+TKT-50027,UBC030,Karnavati Textiles,Ahmedabad,IM-200,leak from tank,20-04-2026 15:14,21-04-2026 17:22,JIGNESH PATEL,1
+TKT-50028,UBC034,Gift Analytics,Ahmedabad,BTC-Pro,Grinder Jammed,21-04-2026 12:21,22-04-2026 09:41,JIGNESH PATEL,1
+TKT-50029,UBC008,Navrachna Design School,Vadodara,IM-400,screen error E04,21/04/2026 02:30 PM,22-04-2026 01:43,Ravi Solanki,1
+TKT-50030,UBC003,Kalpana Polymers,Vadodara,IM-400,machine not giving tea,21/04/2026 05:58 PM,21-04-2026 19:30,IMRAN SHAIKH,1
+TKT-50031,UBC004,Sayaji Medicare Hospital,Vadodara,IM-400,machine not giving tea,22/04/2026 05:27 PM,22-04-2026 21:49,RAVI SOLANKI,1
+TKT-50032,UBC022,Cobalt Fintech,Vadodara,IM-400,descaling due,23/04/2026 12:05 PM,23-04-2026 14:16,RAVI SOLANKI,1
+TKT-50033,UBC008,Navrachna Design School,Vadodara,IM-400,No output,25/04/2026 11:34 AM,25-04-2026 18:40,Imran Shaikh,1
+TKT-50034,UBC001,Nexora Infotech,Vadodara,BTC-Pro,beans stuck in grinder,25/04/2026 02:59 PM,25-04-2026 19:59,IMRAN SHAIKH,2
+TKT-50035,UBC035,Sanand Auto Components,Ahmedabad,BTC-Pro,leakage,26/04/2026 11:22 AM,27-04-2026 15:23,Jignesh,1
+TKT-50036,UBC013,BlueOak Software,Vadodara,BTC-Pro,Grinder Jammed,26-04-2026 12:08,26-04-2026 16:02,Imran Shaikh,2
+TKT-50037,UBC001,Nexora Infotech,Vadodara,BTC-Pro,beans stuck in grinder,27/04/2026 10:56 AM,27-04-2026 16:22,Jignesh Patel,1
+TKT-50038,UBC033,Vastrapur Studios,Ahmedabad,IM-400,Cleaning req,27/04/2026 11:21 AM,28-04-2026 09:43,Jignesh,2
+TKT-50039,UBC022,Cobalt Fintech,Vadodara,IM-400,Cleaning req,27-04-2026 13:24,27-04-2026 18:44,Imran,1
+TKT-50040,UBC013,BlueOak Software,Vadodara,BTC-Pro,screen error E04,28-04-2026 17:50,29-04-2026 10:41,Imran,2
+TKT-50041,UBC020,Vertex Electricals,Vadodara,IM-200,water on floor near machine,02/05/2026 02:13 PM,02-05-2026 21:06,Imran,1
+TKT-50042,UBC021,Indus Ceramics,Vadodara,IM-200,water on floor near machine,02/05/2026 02:41 PM,02-05-2026 18:19,Ravi Solanki,1
+TKT-50043,UBC001,Nexora Infotech,Vadodara,BTC-Pro,Grinder Jammed,03-05-2026 10:15,03-05-2026 15:39,Ravi,2
+TKT-50044,UBC034,Gift Analytics,Ahmedabad,BTC-Pro,No output,03/05/2026 11:48 AM,04-05-2026 08:10,JIGNESH PATEL,1
+TKT-50045,UBC013,BlueOak Software,Vadodara,BTC-Pro,screen error E04,04-05-2026 10:44,04-05-2026 18:41,Imran Shaikh,1
+TKT-50046,UBC026,Ashram Road CoWork,Ahmedabad,SV-60,coin box jam,04/05/2026 10:57 AM,05-05-2026 07:44,Jignesh,2
+TKT-50047,UBC027,Narmada Infra,Ahmedabad,BTC-Pro,Descale,04-05-2026 14:13,05-05-2026 01:34,JIGNESH PATEL,1
+TKT-50048,UBC024,Kaveri Paints,Vadodara,IM-400,Descale,04/05/2026 04:22 PM,05-05-2026 00:15,Ravi,1
+TKT-50049,UBC021,Indus Ceramics,Vadodara,IM-200,machine not giving tea,05-05-2026 14:07,05-05-2026 18:09,Ravi Solanki,1
+TKT-50050,UBC034,Gift Analytics,Ahmedabad,BTC-Pro,Water Leak,05-05-2026 16:24,06-05-2026 12:32,Jignesh Patel,1
+TKT-50051,UBC016,Apex Valves,Vadodara,IM-400,Dispense error,06/05/2026 10:53 AM,06-05-2026 16:22,Ravi Solanki,1
+TKT-50052,UBC007,Trident Gears,Vadodara,IM-400,machine not giving tea,06/05/2026 02:34 PM,06-05-2026 22:05,IMRAN SHAIKH,1
+TKT-50053,UBC029,SG Highway Tech Hub,Ahmedabad,BTC-Pro,grinder jam,07-05-2026 09:25,09-05-2026 03:38,Jignesh,2
+TKT-50054,UBC023,Saffron Hotels Back Office,Vadodara,IM-400,Cleaning req,07-05-2026 10:26,07-05-2026 12:51,IMRAN SHAIKH,1
+TKT-50055,UBC034,Gift Analytics,Ahmedabad,BTC-Pro,grinder jam,07-05-2026 13:27,08-05-2026 16:42,Jignesh Patel,1
+TKT-50056,UBC005,Vrundavan Engineering,Vadodara,IM-400,not dispensing,08/05/2026 10:24 AM,08-05-2026 16:00,Imran,2
+TKT-50057,UBC001,Nexora Infotech,Vadodara,BTC-Pro,Grinder Jammed,09-05-2026 11:04,09-05-2026 15:14,IMRAN SHAIKH,1
+TKT-50058,UBC007,Trident Gears,Vadodara,IM-400,Descale,09/05/2026 11:06 AM,09-05-2026 20:20,Ravi Solanki,1
+TKT-50059,UBC013,BlueOak Software,Vadodara,BTC-Pro,beans stuck in grinder,09-05-2026 14:04,10-05-2026 04:09,Ravi Solanki,1
+TKT-50060,UBC001,Nexora Infotech,Vadodara,BTC-Pro,Descale,09/05/2026 02:52 PM,09-05-2026 18:29,Ravi,1
+TKT-50061,UBC016,Apex Valves,Vadodara,IM-400,water on floor near machine,09/05/2026 05:13 PM,10-05-2026 01:40,Jignesh,1
+TKT-50062,UBC024,Kaveri Paints,Vadodara,IM-400,Power issue,10/05/2026 09:30 AM,10-05-2026 10:45,Imran Shaikh,2
+TKT-50063,UBC019,Aarohi Textiles,Vadodara,IM-200,Water Leak,10/05/2026 11:07 AM,10-05-2026 22:34,IMRAN SHAIKH,1
+TKT-50064,UBC036,Bopal Learning Academy,Ahmedabad,IM-400,not dispensing,11-05-2026 16:30,12-05-2026 20:04,Jignesh Patel,1
+TKT-50065,UBC034,Gift Analytics,Ahmedabad,BTC-Pro,descaling due,14/05/2026 01:48 PM,15-05-2026 07:33,JIGNESH PATEL,1
+TKT-50066,UBC018,Sankalp Logistics,Vadodara,IM-400,screen error E04,15/05/2026 11:46 AM,15-05-2026 14:59,Imran Shaikh,1
+TKT-50067,UBC005,Vrundavan Engineering,Vadodara,IM-400,Dispense error,15-05-2026 13:23,16-05-2026 03:50,Imran,1
+TKT-50068,UBC022,Cobalt Fintech,Vadodara,IM-400,scale alert,16/05/2026 09:22 AM,16-05-2026 16:50,Ravi Solanki,1
+TKT-50069,UBC029,SG Highway Tech Hub,Ahmedabad,BTC-Pro,beans stuck in grinder,16-05-2026 14:45,17-05-2026 14:54,JIGNESH PATEL,2
+TKT-50070,UBC020,Vertex Electricals,Vadodara,IM-200,Dispense error,16-05-2026 16:55,16-05-2026 23:27,Ravi,1
+TKT-50071,UBC027,Narmada Infra,Ahmedabad,BTC-Pro,Grinder Jammed,16-05-2026 17:54,17-05-2026 06:07,Jignesh,1
+TKT-50072,UBC007,Trident Gears,Vadodara,IM-400,not dispensing,17/05/2026 03:57 PM,18-05-2026 00:09,RAVI SOLANKI,1
+TKT-50073,UBC036,Bopal Learning Academy,Ahmedabad,IM-400,machine not giving tea,20-05-2026 10:52,21-05-2026 07:51,Jignesh,2
+TKT-50074,UBC017,Lumen Diagnostics,Vadodara,IM-400,Cleaning req,20/05/2026 12:32 PM,20-05-2026 21:22,Ravi,1
+TKT-50075,UBC032,Lotus Hospital Ahmedabad,Ahmedabad,SV-60,UPI not working,20-05-2026 14:03,21-05-2026 10:37,Jignesh,1
+TKT-50076,UBC004,Sayaji Medicare Hospital,Vadodara,IM-400,not dispensing,22/05/2026 12:17 PM,22-05-2026 20:29,Imran Shaikh,2
+TKT-50077,UBC025,Sabarmati Steel,Ahmedabad,SV-60,Not switching on,22-05-2026 16:35,23-05-2026 13:23,Jignesh Patel,1
+TKT-50078,UBC029,SG Highway Tech Hub,Ahmedabad,BTC-Pro,grinder jam,23-05-2026 14:22,24-05-2026 05:26,Jignesh Patel,2
+TKT-50079,UBC033,Vastrapur Studios,Ahmedabad,IM-400,No output,23-05-2026 15:01,24-05-2026 06:49,JIGNESH PATEL,1
+TKT-50080,UBC015,Riverdale College of Commerce,Vadodara,IM-400,Water Leak,24/05/2026 09:05 AM,24-05-2026 11:43,RAVI SOLANKI,1
+TKT-50081,UBC014,Shreeji Packaging,Vadodara,IM-200,No output,24-05-2026 15:52,24-05-2026 19:55,Jignesh Patel,1
+TKT-50082,UBC007,Trident Gears,Vadodara,IM-400,Cleaning req,26-05-2026 12:27,26-05-2026 17:04,Ravi Solanki,1
+TKT-50083,UBC001,Nexora Infotech,Vadodara,BTC-Pro,Grinder Jammed,26/05/2026 12:54 PM,26-05-2026 18:26,Imran,1
+TKT-50084,UBC004,Sayaji Medicare Hospital,Vadodara,IM-400,water on floor near machine,27-05-2026 14:22,28-05-2026 03:30,RAVI SOLANKI,1
+TKT-50085,UBC006,Orbit CoWork Alkapuri,Vadodara,BTC-Lite,Grinder Jammed,27/05/2026 02:43 PM,28-05-2026 02:46,Ravi Solanki,1
+TKT-50086,UBC009,Helix Analytics,Vadodara,IM-400,not dispensing,27-05-2026 16:04,27-05-2026 18:38,Ravi,1
+TKT-50087,UBC028,Prahlad Pharma,Ahmedabad,IM-200,Cleaning req,28/05/2026 12:25 PM,29-05-2026 11:08,JIGNESH PATEL,1
+TKT-50088,UBC013,BlueOak Software,Vadodara,BTC-Pro,beans stuck in grinder,28/05/2026 05:10 PM,29-05-2026 01:44,Ravi Solanki,1
+TKT-50089,UBC001,Nexora Infotech,Vadodara,BTC-Pro,Cleaning req,02-06-2026 16:34,03-06-2026 02:07,IMRAN SHAIKH,2
+TKT-50090,UBC008,Navrachna Design School,Vadodara,IM-400,No output,03/06/2026 02:27 PM,03-06-2026 22:01,Jignesh,1
+TKT-50091,UBC012,Pinnacle Auto Parts,Vadodara,IM-200,scale alert,04/06/2026 09:09 AM,04-06-2026 16:03,Ravi Solanki,1
+TKT-50092,UBC008,Navrachna Design School,Vadodara,IM-400,Cleaning req,04/06/2026 01:38 PM,04-06-2026 16:43,RAVI SOLANKI,1
+TKT-50093,UBC035,Sanand Auto Components,Ahmedabad,BTC-Pro,grinder jam,05/06/2026 02:06 PM,06-06-2026 18:29,Jignesh Patel,1
+TKT-50094,UBC001,Nexora Infotech,Vadodara,BTC-Pro,Dispense error,05/06/2026 03:47 PM,06-06-2026 00:39,Jignesh,1
+TKT-50095,UBC008,Navrachna Design School,Vadodara,IM-400,leak from tank,05/06/2026 03:54 PM,05-06-2026 23:08,RAVI SOLANKI,2
+TKT-50096,UBC008,Navrachna Design School,Vadodara,IM-400,Dispense error,05-06-2026 16:34,05-06-2026 20:30,Imran Shaikh,1
+TKT-50097,UBC010,Mahi Agro Foods,Vadodara,IM-200,Dispense error,05/06/2026 05:38 PM,05-06-2026 20:40,Imran,2
+TKT-50098,UBC012,Pinnacle Auto Parts,Vadodara,IM-200,descaling due,06-06-2026 10:41,06-06-2026 15:48,Jignesh Patel,1
+TKT-50099,UBC028,Prahlad Pharma,Ahmedabad,IM-200,water on floor near machine,06/06/2026 02:59 PM,07-06-2026 07:17,Jignesh,1
+TKT-50100,UBC023,Saffron Hotels Back Office,Vadodara,IM-400,Descale,06-06-2026 16:27,06-06-2026 21:41,Ravi,1
+TKT-50101,UBC031,Maninagar Plastics,Ahmedabad,SV-60,card reader issue,07-06-2026 13:33,08-06-2026 13:52,Jignesh Patel,2
+TKT-50102,UBC012,Pinnacle Auto Parts,Vadodara,IM-200,display blank,10-06-2026 16:43,11-06-2026 05:11,RAVI SOLANKI,1
+TKT-50103,UBC005,Vrundavan Engineering,Vadodara,IM-400,scale alert,11/06/2026 04:08 PM,11-06-2026 23:32,RAVI SOLANKI,1
+TKT-50104,UBC023,Saffron Hotels Back Office,Vadodara,IM-400,machine not giving tea,12/06/2026 01:57 PM,13-06-2026 02:46,Imran,2
+TKT-50105,UBC030,Karnavati Textiles,Ahmedabad,IM-200,Water Leak,12-06-2026 15:41,13-06-2026 02:20,Jignesh Patel,1
+TKT-50106,UBC011,Zenith Chemicals,Vadodara,SV-60,not dispensing,13-06-2026 16:37,14-06-2026 03:22,RAVI SOLANKI,1
+TKT-50107,UBC005,Vrundavan Engineering,Vadodara,IM-400,descaling due,14-06-2026 10:08,14-06-2026 20:47,IMRAN SHAIKH,1
+TKT-50108,UBC029,SG Highway Tech Hub,Ahmedabad,BTC-Pro,grinder jam,14/06/2026 05:29 PM,15-06-2026 07:31,JIGNESH PATEL,1
+TKT-50109,UBC034,Gift Analytics,Ahmedabad,BTC-Pro,beans stuck in grinder,15/06/2026 11:51 AM,16-06-2026 21:04,Jignesh,1
+TKT-50110,UBC012,Pinnacle Auto Parts,Vadodara,IM-200,Descale,15/06/2026 02:13 PM,15-06-2026 17:48,Ravi,1
+TKT-50111,UBC023,Saffron Hotels Back Office,Vadodara,IM-400,Cleaning req,16-06-2026 11:52,16-06-2026 17:56,Jignesh,1
+TKT-50112,UBC008,Navrachna Design School,Vadodara,IM-400,Water Leak,16/06/2026 03:06 PM,16-06-2026 19:14,RAVI SOLANKI,1
+TKT-50113,UBC013,BlueOak Software,Vadodara,BTC-Pro,beans stuck in grinder,17-06-2026 11:48,17-06-2026 14:12,RAVI SOLANKI,1
+TKT-50114,UBC027,Narmada Infra,Ahmedabad,BTC-Pro,Grinder Jammed,17/06/2026 12:29 PM,18-06-2026 08:52,JIGNESH PATEL,1
+TKT-50115,UBC022,Cobalt Fintech,Vadodara,IM-400,Cleaning req,18-06-2026 12:04,18-06-2026 19:23,RAVI SOLANKI,1
+TKT-50116,UBC030,Karnavati Textiles,Ahmedabad,IM-200,Not switching on,18/06/2026 02:47 PM,19-06-2026 05:32,Jignesh,2
+TKT-50117,UBC023,Saffron Hotels Back Office,Vadodara,IM-400,Power issue,19-06-2026 17:20,20-06-2026 00:05,RAVI SOLANKI,1
+TKT-50118,UBC004,Sayaji Medicare Hospital,Vadodara,IM-400,not dispensing,20/06/2026 09:58 AM,20-06-2026 17:07,RAVI SOLANKI,1
+TKT-50119,UBC023,Saffron Hotels Back Office,Vadodara,IM-400,leak from tank,21-06-2026 10:25,21-06-2026 18:43,Ravi Solanki,1
+TKT-50120,UBC013,BlueOak Software,Vadodara,BTC-Pro,beans stuck in grinder,21/06/2026 02:00 PM,21-06-2026 20:10,Ravi,2
+TKT-50121,UBC007,Trident Gears,Vadodara,IM-400,water on floor near machine,21-06-2026 16:08,21-06-2026 19:47,Ravi Solanki,1
+TKT-50122,UBC012,Pinnacle Auto Parts,Vadodara,IM-200,machine not giving tea,22-06-2026 13:43,22-06-2026 16:47,Ravi,1
+TKT-50123,UBC028,Prahlad Pharma,Ahmedabad,IM-200,water on floor near machine,22-06-2026 13:59,25-06-2026 00:00,JIGNESH PATEL,1
+TKT-50124,UBC010,Mahi Agro Foods,Vadodara,IM-200,Dispense error,23-06-2026 11:14,23-06-2026 13:25,Ravi,1
+TKT-50125,UBC034,Gift Analytics,Ahmedabad,BTC-Pro,leak from tank,23-06-2026 12:45,25-06-2026 09:23,Jignesh,1
+TKT-50126,UBC001,Nexora Infotech,Vadodara,BTC-Pro,grinder jam,23-06-2026 14:05,23-06-2026 20:17,RAVI SOLANKI,1
+TKT-50127,UBC013,BlueOak Software,Vadodara,BTC-Pro,grinder jam,23-06-2026 15:22,23-06-2026 20:38,IMRAN SHAIKH,1
+TKT-50128,UBC035,Sanand Auto Components,Ahmedabad,BTC-Pro,leak from tank,24-06-2026 09:59,25-06-2026 05:58,Jignesh Patel,1
+TKT-50129,UBC012,Pinnacle Auto Parts,Vadodara,IM-200,Water Leak,24/06/2026 04:34 PM,25-06-2026 02:44,IMRAN SHAIKH,1
+TKT-50130,UBC007,Trident Gears,Vadodara,IM-400,Not switching on,26/06/2026 03:34 PM,26-06-2026 18:53,Imran Shaikh,1
+TKT-50131,UBC027,Narmada Infra,Ahmedabad,BTC-Pro,Grinder Jammed,27-06-2026 10:48,27-06-2026 22:18,JIGNESH PATEL,1
+TKT-50132,UBC034,Gift Analytics,Ahmedabad,BTC-Pro,Grinder Jammed,02/07/2026 04:04 PM,03-07-2026 02:42,Jignesh,2
+TKT-50133,UBC012,Pinnacle Auto Parts,Vadodara,IM-200,No output,03/07/2026 05:55 PM,04-07-2026 04:55,Imran,1
+TKT-50134,UBC005,Vrundavan Engineering,Vadodara,IM-400,Not switching on,04-07-2026 12:13,04-07-2026 20:32,RAVI SOLANKI,1
+TKT-50135,UBC001,Nexora Infotech,Vadodara,BTC-Pro,leakage,04/07/2026 03:37 PM,04-07-2026 20:13,Ravi,1
+TKT-50136,UBC019,Aarohi Textiles,Vadodara,IM-200,leak from tank,04-07-2026 17:23,05-07-2026 02:12,RAVI SOLANKI,1
+TKT-50137,UBC011,Zenith Chemicals,Vadodara,SV-60,display blank,07-07-2026 15:36,07-07-2026 19:51,Imran,1
+TKT-50138,UBC002,GreenLeaf Pharma,Vadodara,SV-60,card reader issue,08/07/2026 10:41 AM,08-07-2026 15:31,RAVI SOLANKI,1
+TKT-50139,UBC006,Orbit CoWork Alkapuri,Vadodara,BTC-Lite,Descale,08-07-2026 11:06,08-07-2026 16:12,RAVI SOLANKI,2
+TKT-50140,UBC013,BlueOak Software,Vadodara,BTC-Pro,grinder jam,08-07-2026 15:49,08-07-2026 20:45,Ravi,2
+TKT-50141,UBC006,Orbit CoWork Alkapuri,Vadodara,BTC-Lite,Descale,09/07/2026 09:04 AM,09-07-2026 12:19,Imran Shaikh,1
+TKT-50142,UBC012,Pinnacle Auto Parts,Vadodara,IM-200,not dispensing,09-07-2026 10:13,09-07-2026 13:40,Ravi Solanki,1
+TKT-50143,UBC013,BlueOak Software,Vadodara,BTC-Pro,Not switching on,09-07-2026 14:49,09-07-2026 23:11,Imran Shaikh,1
+TKT-50144,UBC023,Saffron Hotels Back Office,Vadodara,IM-400,leak from tank,10/07/2026 09:12 AM,10-07-2026 20:44,IMRAN SHAIKH,1
+TKT-50145,UBC011,Zenith Chemicals,Vadodara,SV-60,card reader issue,11/07/2026 04:43 PM,11-07-2026 20:12,Ravi Solanki,1
+TKT-50146,UBC013,BlueOak Software,Vadodara,BTC-Pro,scale alert,12-07-2026 09:22,12-07-2026 11:28,Jignesh,1
+TKT-50147,UBC003,Kalpana Polymers,Vadodara,IM-400,descaling due,13/07/2026 02:17 PM,13-07-2026 18:20,IMRAN SHAIKH,1
+TKT-50148,UBC004,Sayaji Medicare Hospital,Vadodara,IM-400,No output,13/07/2026 02:28 PM,13-07-2026 19:25,Ravi Solanki,1
+TKT-50149,UBC029,SG Highway Tech Hub,Ahmedabad,BTC-Pro,grinder jam,15/07/2026 04:02 PM,16-07-2026 06:32,JIGNESH PATEL,1
+TKT-50150,UBC025,Sabarmati Steel,Ahmedabad,SV-60,card reader issue,16/07/2026 04:49 PM,17-07-2026 11:19,Jignesh,1
+TKT-50151,UBC025,Sabarmati Steel,Ahmedabad,SV-60,descaling due,16-07-2026 17:05,18-07-2026 04:58,Jignesh Patel,1
+TKT-50152,UBC025,Sabarmati Steel,Ahmedabad,SV-60,card reader issue,18/07/2026 09:42 AM,18-07-2026 20:36,Jignesh,1
+TKT-50153,UBC013,BlueOak Software,Vadodara,BTC-Pro,grinder jam,19/07/2026 10:32 AM,19-07-2026 17:36,Ravi Solanki,1
+TKT-50154,UBC027,Narmada Infra,Ahmedabad,BTC-Pro,Dispense error,19-07-2026 12:10,20-07-2026 09:17,Jignesh,1
+TKT-50155,UBC007,Trident Gears,Vadodara,IM-400,descaling due,20/07/2026 12:28 PM,20-07-2026 16:31,RAVI SOLANKI,1
+TKT-50156,UBC025,Sabarmati Steel,Ahmedabad,SV-60,UPI not working,21-07-2026 17:39,22-07-2026 03:30,Jignesh,1
+TKT-50157,UBC015,Riverdale College of Commerce,Vadodara,IM-400,Descale,22-07-2026 09:21,22-07-2026 17:31,IMRAN SHAIKH,1
+TKT-50158,UBC023,Saffron Hotels Back Office,Vadodara,IM-400,descaling due,24-07-2026 13:59,24-07-2026 21:30,Ravi Solanki,1
+TKT-50159,UBC028,Prahlad Pharma,Ahmedabad,IM-200,leak from tank,24/07/2026 03:34 PM,25-07-2026 04:35,Jignesh Patel,1
+TKT-50160,UBC013,BlueOak Software,Vadodara,BTC-Pro,beans stuck in grinder,25/07/2026 10:38 AM,25-07-2026 13:27,Imran,1
+TKT-50161,UBC036,Bopal Learning Academy,Ahmedabad,IM-400,leak from tank,25-07-2026 11:42,26-07-2026 02:17,Jignesh,1
+TKT-50162,UBC035,Sanand Auto Components,Ahmedabad,BTC-Pro,beans stuck in grinder,26/07/2026 10:33 AM,27-07-2026 00:35,JIGNESH PATEL,1
+TKT-50163,UBC032,Lotus Hospital Ahmedabad,Ahmedabad,SV-60,card reader issue,26-07-2026 11:28,27-07-2026 07:18,Jignesh,1
+TKT-50164,UBC005,Vrundavan Engineering,Vadodara,IM-400,machine not giving tea,26/07/2026 02:25 PM,26-07-2026 20:41,IMRAN SHAIKH,1
+TKT-50165,UBC028,Prahlad Pharma,Ahmedabad,IM-200,water on floor near machine,26/07/2026 02:25 PM,27-07-2026 07:56,Jignesh,1
+TKT-50166,UBC003,Kalpana Polymers,Vadodara,IM-400,screen error E04,27-07-2026 09:55,27-07-2026 12:36,Imran Shaikh,1
+TKT-50167,UBC001,Nexora Infotech,Vadodara,BTC-Pro,not dispensing,28/07/2026 10:08 AM,28-07-2026 16:56,Ravi Solanki,1
+TKT-50168,UBC031,Maninagar Plastics,Ahmedabad,SV-60,UPI not working,28-07-2026 13:31,29-07-2026 07:11,Jignesh,1
+TKT-50169,UBC035,Sanand Auto Components,Ahmedabad,BTC-Pro,Grinder Jammed,28/07/2026 04:56 PM,29-07-2026 08:35,Jignesh,2
+TKT-50170,UBC005,Vrundavan Engineering,Vadodara,IM-400,display blank,02-08-2026 10:23,02-08-2026 22:19,RAVI SOLANKI,1
+TKT-50171,UBC011,Zenith Chemicals,Vadodara,SV-60,descaling due,02-08-2026 16:44,02-08-2026 22:59,Ravi,1
+TKT-50172,UBC016,Apex Valves,Vadodara,IM-400,No output,03-08-2026 09:20,03-08-2026 16:31,Ravi Solanki,2
+TKT-50173,UBC035,Sanand Auto Components,Ahmedabad,BTC-Pro,descaling due,04/08/2026 10:40 AM,05-08-2026 02:22,Jignesh Patel,2
+TKT-50174,UBC026,Ashram Road CoWork,Ahmedabad,SV-60,coin box jam,04/08/2026 11:25 AM,04-08-2026 21:46,Jignesh Patel,1
+TKT-50175,UBC022,Cobalt Fintech,Vadodara,IM-400,Dispense error,04/08/2026 01:50 PM,04-08-2026 22:24,Ravi,1
+TKT-50176,UBC005,Vrundavan Engineering,Vadodara,IM-400,Not switching on,04/08/2026 05:51 PM,04-08-2026 22:03,Jignesh Patel,1
+TKT-50177,UBC033,Vastrapur Studios,Ahmedabad,IM-400,descaling due,05/08/2026 04:17 PM,06-08-2026 08:49,Jignesh Patel,1
+TKT-50178,UBC028,Prahlad Pharma,Ahmedabad,IM-200,Water Leak,06-08-2026 09:10,07-08-2026 17:51,Jignesh,1
+TKT-50179,UBC025,Sabarmati Steel,Ahmedabad,SV-60,UPI not working,08/08/2026 01:43 PM,09-08-2026 12:17,Jignesh,1
+TKT-50180,UBC029,SG Highway Tech Hub,Ahmedabad,BTC-Pro,beans stuck in grinder,09-08-2026 11:59,10-08-2026 04:09,JIGNESH PATEL,1
+TKT-50181,UBC020,Vertex Electricals,Vadodara,IM-200,Dispense error,10-08-2026 09:59,11-08-2026 13:23,Imran Shaikh,1
+TKT-50182,UBC016,Apex Valves,Vadodara,IM-400,Water Leak,11/08/2026 02:43 PM,12-08-2026 01:52,IMRAN SHAIKH,1
+TKT-50183,UBC006,Orbit CoWork Alkapuri,Vadodara,BTC-Lite,scale alert,11-08-2026 15:37,12-08-2026 01:30,Ravi Solanki,1
+TKT-50184,UBC007,Trident Gears,Vadodara,IM-400,Cleaning req,13/08/2026 09:34 AM,13-08-2026 13:10,Ravi,1
+TKT-50185,UBC020,Vertex Electricals,Vadodara,IM-200,leak from tank,14/08/2026 02:27 PM,14-08-2026 17:12,IMRAN SHAIKH,1
+TKT-50186,UBC002,GreenLeaf Pharma,Vadodara,SV-60,coin box jam,15/08/2026 03:44 PM,15-08-2026 18:00,Imran Shaikh,1
+TKT-50187,UBC013,BlueOak Software,Vadodara,BTC-Pro,leakage,16/08/2026 04:34 PM,17-08-2026 03:51,IMRAN SHAIKH,1
+TKT-50188,UBC020,Vertex Electricals,Vadodara,IM-200,scale alert,16/08/2026 05:09 PM,16-08-2026 21:19,Jignesh Patel,1
+TKT-50189,UBC025,Sabarmati Steel,Ahmedabad,SV-60,QR payment failed,17/08/2026 10:40 AM,18-08-2026 01:57,Jignesh Patel,1
+TKT-50190,UBC010,Mahi Agro Foods,Vadodara,IM-200,water on floor near machine,17/08/2026 12:25 PM,17-08-2026 20:53,IMRAN SHAIKH,1
+TKT-50191,UBC013,BlueOak Software,Vadodara,BTC-Pro,grinder jam,19-08-2026 17:50,20-08-2026 02:58,RAVI SOLANKI,2
+TKT-50192,UBC007,Trident Gears,Vadodara,IM-400,leakage,20-08-2026 12:48,20-08-2026 19:58,Ravi,1
+TKT-50193,UBC013,BlueOak Software,Vadodara,BTC-Pro,Dispense error,20-08-2026 13:32,20-08-2026 18:40,IMRAN SHAIKH,1
+TKT-50194,UBC001,Nexora Infotech,Vadodara,BTC-Pro,beans stuck in grinder,21-08-2026 11:12,21-08-2026 17:54,Ravi Solanki,2
+TKT-50195,UBC033,Vastrapur Studios,Ahmedabad,IM-400,No output,21-08-2026 16:19,22-08-2026 04:47,JIGNESH PATEL,1
+TKT-50196,UBC024,Kaveri Paints,Vadodara,IM-400,leakage,22-08-2026 15:27,23-08-2026 02:21,Jignesh,1
+TKT-50197,UBC011,Zenith Chemicals,Vadodara,SV-60,Cleaning req,23-08-2026 10:03,23-08-2026 18:23,Imran,1
+TKT-50198,UBC032,Lotus Hospital Ahmedabad,Ahmedabad,SV-60,not dispensing,23-08-2026 12:04,24-08-2026 14:18,Jignesh Patel,2
+TKT-50199,UBC032,Lotus Hospital Ahmedabad,Ahmedabad,SV-60,QR payment failed,23/08/2026 01:50 PM,23-08-2026 20:14,Jignesh Patel,1
+TKT-50200,UBC028,Prahlad Pharma,Ahmedabad,IM-200,water on floor near machine,24-08-2026 13:47,25-08-2026 10:13,JIGNESH PATEL,1
+TKT-50201,UBC030,Karnavati Textiles,Ahmedabad,IM-200,scale alert,25/08/2026 10:19 AM,26-08-2026 21:56,Jignesh Patel,1
+TKT-50202,UBC005,Vrundavan Engineering,Vadodara,IM-400,descaling due,25-08-2026 12:24,25-08-2026 16:50,RAVI SOLANKI,1
+TKT-50203,UBC008,Navrachna Design School,Vadodara,IM-400,not dispensing,25-08-2026 12:32,25-08-2026 21:09,RAVI SOLANKI,1
+TKT-50204,UBC034,Gift Analytics,Ahmedabad,BTC-Pro,beans stuck in grinder,25-08-2026 15:57,26-08-2026 17:35,JIGNESH PATEL,1
+TKT-50205,UBC012,Pinnacle Auto Parts,Vadodara,IM-200,Dispense error,26-08-2026 10:56,26-08-2026 16:26,JIGNESH PATEL,1
+TKT-50206,UBC001,Nexora Infotech,Vadodara,BTC-Pro,No output,26-08-2026 13:52,26-08-2026 17:07,RAVI SOLANKI,1
+TKT-50207,UBC006,Orbit CoWork Alkapuri,Vadodara,BTC-Lite,Grinder Jammed,26-08-2026 14:01,26-08-2026 20:37,Imran Shaikh,1
+TKT-50208,UBC005,Vrundavan Engineering,Vadodara,IM-400,Power issue,26/08/2026 05:09 PM,27-08-2026 00:00,RAVI SOLANKI,1
+TKT-50209,UBC033,Vastrapur Studios,Ahmedabad,IM-400,Dispense error,27/08/2026 01:07 PM,27-08-2026 20:45,Jignesh Patel,1
+TKT-50210,UBC033,Vastrapur Studios,Ahmedabad,IM-400,Power issue,03-09-2026 11:49,04-09-2026 18:45,Jignesh Patel,1
+TKT-50211,UBC020,Vertex Electricals,Vadodara,IM-200,leakage,04/09/2026 10:41 AM,04-09-2026 13:14,JIGNESH PATEL,1
+TKT-50212,UBC035,Sanand Auto Components,Ahmedabad,BTC-Pro,Grinder Jammed,06/09/2026 09:18 AM,07-09-2026 10:23,Jignesh,2
+TKT-50213,UBC021,Indus Ceramics,Vadodara,IM-200,not dispensing,06-09-2026 13:50,06-09-2026 20:37,Ravi Solanki,1
+TKT-50214,UBC031,Maninagar Plastics,Ahmedabad,SV-60,card reader issue,06-09-2026 15:55,07-09-2026 13:44,Jignesh Patel,1
+TKT-50215,UBC012,Pinnacle Auto Parts,Vadodara,IM-200,water on floor near machine,07-09-2026 12:49,07-09-2026 18:20,IMRAN SHAIKH,1
+TKT-50216,UBC005,Vrundavan Engineering,Vadodara,IM-400,Water Leak,07/09/2026 01:53 PM,07-09-2026 22:18,IMRAN SHAIKH,1
+TKT-50217,UBC012,Pinnacle Auto Parts,Vadodara,IM-200,leak from tank,08/09/2026 11:41 AM,08-09-2026 19:53,RAVI SOLANKI,1
+TKT-50218,UBC036,Bopal Learning Academy,Ahmedabad,IM-400,display blank,13/09/2026 02:24 PM,14-09-2026 15:10,Jignesh Patel,1
+TKT-50219,UBC012,Pinnacle Auto Parts,Vadodara,IM-200,scale alert,14/09/2026 10:31 AM,14-09-2026 19:33,Ravi Solanki,1
+TKT-50220,UBC012,Pinnacle Auto Parts,Vadodara,IM-200,leakage,16-09-2026 14:31,16-09-2026 17:55,Ravi,1
+TKT-50221,UBC016,Apex Valves,Vadodara,IM-400,Cleaning req,18/09/2026 09:00 AM,18-09-2026 12:43,Imran,1
+TKT-50222,UBC024,Kaveri Paints,Vadodara,IM-400,Descale,18/09/2026 03:15 PM,18-09-2026 19:38,Jignesh,1
+TKT-50223,UBC002,GreenLeaf Pharma,Vadodara,SV-60,UPI not working,19-09-2026 13:26,19-09-2026 16:36,Ravi Solanki,1
+TKT-50224,UBC029,SG Highway Tech Hub,Ahmedabad,BTC-Pro,machine not giving tea,20-09-2026 09:09,21-09-2026 05:14,Jignesh,1
+TKT-50225,UBC013,BlueOak Software,Vadodara,BTC-Pro,descaling due,20/09/2026 04:40 PM,20-09-2026 23:53,Ravi,1
+TKT-50226,UBC034,Gift Analytics,Ahmedabad,BTC-Pro,grinder jam,22/09/2026 10:29 AM,23-09-2026 04:29,Jignesh Patel,1
+TKT-50227,UBC015,Riverdale College of Commerce,Vadodara,IM-400,No output,22-09-2026 15:42,23-09-2026 08:53,Imran Shaikh,1
+TKT-50228,UBC021,Indus Ceramics,Vadodara,IM-200,screen error E04,23/09/2026 05:59 PM,24-09-2026 01:59,Imran Shaikh,1
+TKT-50229,UBC001,Nexora Infotech,Vadodara,BTC-Pro,beans stuck in grinder,24/09/2026 01:09 PM,,Jignesh,2
+TKT-50230,UBC025,Sabarmati Steel,Ahmedabad,SV-60,UPI not working,25/09/2026 11:23 AM,,Jignesh Patel,1
+TKT-50231,UBC001,Nexora Infotech,Vadodara,BTC-Pro,GRINDER NOT WORKING,25-09-2026 13:23,,JIGNESH PATEL,2
+TKT-50232,UBC007,Trident Gears,Vadodara,IM-400,screen error E04,25/09/2026 02:57 PM,25-09-2026 19:04,Imran,1
+TKT-50233,UBC021,Indus Ceramics,Vadodara,IM-200,Water Leak,26-09-2026 10:31,27-09-2026 02:02,RAVI SOLANKI,2
+TKT-50234,UBC034,Gift Analytics,Ahmedabad,BTC-Pro,GRINDER NOT WORKING,26/09/2026 11:17 AM,26-09-2026 21:47,JIGNESH PATEL,1
+TKT-50235,UBC026,Ashram Road CoWork,Ahmedabad,SV-60,Dispense error,26/09/2026 11:57 AM,27-09-2026 10:31,JIGNESH PATEL,1
+TKT-50236,UBC013,BlueOak Software,Vadodara,BTC-Pro,grinder jam,27-09-2026 12:51,27-09-2026 18:31,Imran,2
+TKT-50237,UBC006,Orbit CoWork Alkapuri,Vadodara,BTC-Lite,descaling due,27-09-2026 13:27,27-09-2026 23:56,Imran Shaikh,1
+TKT-50238,UBC018,Sankalp Logistics,Vadodara,IM-400,not dispensing,27/09/2026 02:50 PM,27-09-2026 19:56,RAVI SOLANKI,1
+TKT-50239,UBC021,Indus Ceramics,Vadodara,IM-200,Descale,27/09/2026 04:26 PM,27-09-2026 20:56,Imran,2
