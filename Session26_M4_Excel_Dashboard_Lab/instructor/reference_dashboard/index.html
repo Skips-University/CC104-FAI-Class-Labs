@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Kesar Kitchen – Excel to Dashboard</title>
+  <link rel="stylesheet" href="style.css">
+  <!-- T3: libraries from a CDN, fixed versions -->
+  <script src="https://cdn.jsdelivr.net/npm/xlsx@0.18.5/dist/xlsx.full.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.1/dist/chart.umd.min.js"></script>
+</head>
+<body>
+  <header class="topbar">
+    <div>
+      <h1>Kesar Kitchen – Excel to Dashboard</h1>
+      <p class="sub">Upload an Excel or CSV file. Everything stays in your browser.</p>
+    </div>
+    <div class="top-actions">
+      <button id="themeBtn" class="btn ghost" type="button">Dark mode</button>
+      <button id="resetBtn" class="btn ghost" type="button" hidden>Reset</button>
+    </div>
+  </header>
+
+  <main>
+    <!-- F1: upload -->
+    <section id="uploadSection" class="card upload">
+      <div id="dropZone" class="drop-zone" tabindex="0">
+        <p class="drop-title">Drag &amp; drop a .xlsx, .xls or .csv file here</p>
+        <p class="muted">or</p>
+        <label class="btn primary">Choose file
+          <input id="fileInput" type="file" accept=".xlsx,.xls,.csv" hidden>
+        </label>
+      </div>
+      <p id="errorBox" class="error" hidden></p>
+    </section>
+
+    <section id="dashboard" hidden>
+      <!-- File info + sheet selector (F2) -->
+      <div class="card file-bar">
+        <div id="fileInfo"></div>
+        <label id="sheetWrap" hidden>Sheet
+          <select id="sheetSelect"></select>
+        </label>
+        <span id="kindBadge" class="badge"></span>
+      </div>
+
+      <!-- F8: filters -->
+      <div class="card filters">
+        <div id="filterBox" class="filter-row"></div>
+        <button id="clearFilters" class="btn ghost" type="button">Clear filters</button>
+        <button id="csvBtn" class="btn ghost" type="button">Download clean CSV</button>
+      </div>
+
+      <!-- F5: KPI cards -->
+      <div id="kpis" class="kpis"></div>
+
+      <!-- F9: insights -->
+      <div class="card">
+        <h2>Insights</h2>
+        <ul id="insights" class="insights"></ul>
+      </div>
+
+      <!-- F6: smart dashboard charts and tables -->
+      <div id="charts" class="grid"></div>
+
+      <!-- F7: custom chart builder -->
+      <div class="card">
+        <h2>Custom chart builder</h2>
+        <div class="builder">
+          <label>Group by (X) <select id="bX"></select></label>
+          <label>Value (Y) <select id="bY"></select></label>
+          <label>Aggregation
+            <select id="bAgg">
+              <option value="sum">Sum</option><option value="avg">Average</option>
+              <option value="count">Count</option><option value="min">Min</option><option value="max">Max</option>
+            </select>
+          </label>
+          <label>Chart
+            <select id="bType">
+              <option value="bar">Bar</option><option value="hbar">Horizontal bar</option>
+              <option value="line">Line</option><option value="pie">Pie</option><option value="doughnut">Doughnut</option>
+            </select>
+          </label>
+        </div>
+        <div class="chart-box"><canvas id="builderChart"></canvas></div>
+      </div>
+
+      <!-- Data quality panel (C1-C9) -->
+      <div class="card">
+        <h2>Data quality</h2>
+        <div id="quality"></div>
+      </div>
+
+      <!-- F4: preview -->
+      <div class="card">
+        <div class="table-head">
+          <h2>Data preview <span id="rowCount" class="muted"></span></h2>
+          <input id="searchBox" type="search" placeholder="Search…">
+        </div>
+        <div class="table-wrap"><table id="preview"></table></div>
+      </div>
+    </section>
+  </main>
+
+  <script src="app.js"></script>
+</body>
+</html>
