@@ -23,7 +23,7 @@ UrbanBrew_AI_Lab/
 ```
 
 ## Setup (5 minutes)
-1. Copy this whole `UrbanBrew_AI_Lab` folder to your laptop, e.g. `D:\UrbanBrew_AI_Lab` (keep the `.agent` folder; it is hidden on some systems).
+1. Copy this whole `UrbanBrew_AI_Lab` folder to your laptop, e.g. `D:\UrbanBrew_AI_Lab` (keep the `.agents` folder; it is hidden on some systems).
 2. Open Antigravity → **Open Folder** → select `UrbanBrew_AI_Lab`.
 3. Check Python: in the Antigravity terminal type `python --version`. If it is missing, ask the agent:
    "Install Python and pandas + openpyxl for this workspace", or work in pairs with someone who has it.
